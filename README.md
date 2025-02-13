@@ -13,3 +13,5 @@ Dentro do projeto, a classe `ContaTerminal.java` realiza toda a codificação do
 | Agencia     | Texto   | 067-8          |
 | Nome Cliente| Texto   | MARIO ANDRADE  |
 | Saldo       | Decimal | 237.48         |
+
+![Resultado do terminal do desafio](Captura do Resultado.png)
