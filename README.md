@@ -20,3 +20,7 @@ Dentro do projeto, a classe 'ContaTerminal.java' realiza toda a codificação do
 
 ## Descrição do Projeto
 
+O projeto 'Conta.java' recebe dados contendo as características de conta em banco.
+A classe 'ContaBanco.java' realiza toda a codificação do nosso programa usando conceitos de POO.
+
+![Resultado do programa JavaPOO](CapturaJavaPOO.png)
